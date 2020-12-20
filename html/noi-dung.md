@@ -27,10 +27,12 @@ Ví dụ trên về tài liệu HTML đã sử dụng các thẻ sau đây:
 ### HTML được xử lý ra sao?
 Khi một tập tin HTML được hình thành, việc xử lý nó sẽ do trình duyệt web đảm nhận. Trình duyệt sẽ đóng vai trò đọc hiểu nội dung HTML từ các thẻ bên trong và sẽ chuyển sang dạng văn bản đã được đánh dấu để đọc, nghe hoặc hiểu.
 
+![Cấu trúc một element](https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png)
 ### Sử dụng thẻ
 Đa phần nội dung trong HTML được chứa trong các thẻ đóng và mở `<tên thẻ>` và `</tên thẻ>`. Tuy nhiên vẫn có một số trường hợp ngoại lệ không cần đóng thẻ ví dụ như `<img>`, `<input>` hay thẻ comment `<!--...-->` vì chúng không có chứa nội dung yêu cầu hiển thị.
 
 ### Attribute (Thuộc tính của thẻ)
+![Thuộc tính](https://mdn.mozillademos.org/files/9345/grumpy-cat-attribute-small.png)
 Thuộc tính ngôn ngữ
 `<html lang="vi-VI">`: thuộc tính của thẻ HTML
 
