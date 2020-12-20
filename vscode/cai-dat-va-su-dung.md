@@ -20,4 +20,18 @@
 - Tạo thư mục tên `Codelearn`
 - Trong thư mục `Codelearn` tạo 3 thư mục tên là `html`, `css`, `js`
 - trong thư mục `html` tạo file có tên `index.html`
-- Sao chép nội dung từ file
+- Sử dụng công cụ Extension
+    - Mở Extension và search từ khóa `live server` sau đó thực hiện cài đặt
+    - Tập xem cách sử dụng một extension với document của nó
+    - Xóa Extension
+- Sao chép nội dung từ file <https://raw.githubusercontent.com/mecuong/code-learn/master/vscode/example/index.html> vào nội dung file `index.html` vừa tạo
+- Tìm kiếm và thay thế tên Join Smith thành tên của bạn
+- Tìm kiếm và thay thế link hình `images/image.jpg` thành tên file hình của bạn
+    - Chị Trầm : https://mevn-public.s3-ap-southeast-1.amazonaws.com/for-github-readme/Huynh+Thi+Huong+Tram.png
+    - Chị Cúc : https://mevn-public.s3-ap-southeast-1.amazonaws.com/for-github-readme/Nguyen+Thi+Huong+Cuc.jpg
+    - Chị Chinh: https://mevn-public.s3-ap-southeast-1.amazonaws.com/for-github-readme/Ngo+Thi+Van+Chinh.png
+    - Em Quỳnh : https://mevn-public.s3-ap-southeast-1.amazonaws.com/for-github-readme/Truong+Thi+Phuong+Quynh.png
+- Tạo một repository trên git của bạn
+    - Đăng nhập vào github với tài khoản của bạn
+    - Tạo một Repository với tên là codelearn
+    - Push code của bạn lên github bằng công cụ quản lý source trên github
